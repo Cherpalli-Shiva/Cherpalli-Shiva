@@ -50,10 +50,6 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 - **Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
 - Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.
 
-### 🎥 [Netflix Deployment Pipeline](https://github.com/your-repo)
-- **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, Monitoring tools 📈  
-- Implemented a deployment strategy for Netflix-like streaming services with CI/CD integration.
-
 ### 🖥️ [3-Tier Application CI/CD Pipeline](https://github.com/your-repo)
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, OWASP 🔒  
 - Built a robust CI/CD pipeline to manage a 3-tier web application securely and efficiently.
