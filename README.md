@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 
 ## 📂 Featured Projects
 
-### 🌐 [Netflix Clone CI/CD Pipeline]([https://github.com/your-repo](https://github.com/Cherpalli-Shiva/Netflix-Website.git)
+### 🌐 [Netflix Clone CI/CD Pipeline] (https://github.com/Cherpalli-Shiva/Netflix-Website.git)
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
 - Automated the entire build, test, and deployment process for a Netflix Clone application.
 
