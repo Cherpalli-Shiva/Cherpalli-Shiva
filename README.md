@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
 - Automated the entire build, test, and deployment process for a Netflix Clone application.
 
-### 🐾 [Petshop Application CI/CD Pipeline]([https://github.com/Cherpalli-Shiva/CI-CD-For-Java-App.git])
+### 🐾 [Petshop Application CI/CD Pipeline](https://github.com/Cherpalli-Shiva/CI-CD-For-Java-App.git)
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, OWASP 🔒, SonarQube 🛡️  
 - Built a secure CI/CD pipeline for a 3-tier application using DevSecOps practices.
 
