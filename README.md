@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 
 ## 📂 Featured Projects
 
-### 🌐 [Netflix Clone CI/CD Pipeline] (https://github.com/Cherpalli-Shiva/Netflix-Website.git)
+### 🌐 [Netflix Clone CI/CD Pipeline](https://github.com/Cherpalli-Shiva/Netflix-Website.git)
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
 - Automated the entire build, test, and deployment process for a Netflix Clone application.
 
@@ -50,11 +50,11 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 - **Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
 - Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.
 
-### 🖥️ [3-Tier Application CI/CD Pipeline]([https://github.com/your-repo](https://github.com/Cherpalli-Shiva/3-Tire-Application.git)
+### 🖥️ [3-Tier Application CI/CD Pipeline](https://github.com/Cherpalli-Shiva/3-Tire-Application.git)
 - **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, OWASP 🔒  
 - Built a robust CI/CD pipeline to manage a 3-tier web application securely and efficiently.
 
-### 🛠️ [CI/CD Gradle Pipeline]([https://github.com/your-repo](https://github.com/Cherpalli-Shiva/CI-CD---Gradle-Project---Nexus-Repo.git)
+### 🛠️ [CI/CD Gradle Pipeline](https://github.com/Cherpalli-Shiva/CI-CD---Gradle-Project---Nexus-Repo.git)
 - **Tech Stack**: Jenkins 🔧, Gradle 📜, Docker 🐳  
 - Automated build and deployment for Java-based applications using Gradle in CI/CD workflows.
 
