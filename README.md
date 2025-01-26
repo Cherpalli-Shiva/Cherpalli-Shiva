@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Shiva Kumar Cherpalli
+# Hi there! 👋 I'm Shiva Kumar Cherpalli  
 
 Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertise in cloud platforms, automation tools, and container orchestration. My goal is to bridge the gap between development and operations to ensure seamless software delivery.
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
 - 🎓 **Education**: Master's in Computer and Information Science  
 - 🌍 **Cloud Expertise**: AWS ☁️, Azure ☁️, Google Cloud Platform (GCP) ☁️  
@@ -14,66 +14,61 @@ Welcome to my GitHub profile! I'm a passionate **DevOps Engineer** with expertis
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 
-### Cloud Platforms
+### Cloud Platforms  
 - **AWS** ☁️: EC2 🖥️, S3 📦, RDS 🛢️, Lambda 🔄, CloudFormation 🏗️, IAM 🔒  
 - **Azure** ☁️: Virtual Machines 🖥️, App Services 🌐, Azure DevOps 🚀  
-- **GCP** ☁️: Compute Engine 🖥️, Kubernetes Engine ☸️, Cloud Storage 📦
+- **GCP** ☁️: Compute Engine 🖥️, Kubernetes Engine ☸️, Cloud Storage 📦  
 
-### DevOps Tools
+### DevOps Tools  
 - **CI/CD**: Jenkins 🔧, GitHub Actions 🛠️  
 - **Containerization**: Docker 🐳, Docker Compose 🧩  
-- **Orchestration**: Kubernetes ☸️, Helm Charts 📜
+- **Orchestration**: Kubernetes ☸️, Helm Charts 📜  
 
-### Programming
+### Programming  
 - Python 🐍 (Scripting, Automation, APIs)  
 - Shell scripting 🖥️  
 
-### Monitoring & Security
+### Monitoring & Security  
 - Prometheus 📈, Grafana 📊, OWASP Dependency-Check 🔒  
-- SonarQube 🛡️, Nagios 📟
+- SonarQube 🛡️, Nagios 📟  
 
 ---
 
-## 📂 Featured Projects
+## 💼 Work Experience  
 
-### 🌐 [Netflix Clone CI/CD Pipeline](https://github.com/Cherpalli-Shiva/Netflix-Website.git)
-- **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
-- Automated the entire build, test, and deployment process for a Netflix Clone application.
+### **DevOps Engineer**  
+**Amicusglobal IT** · Full-time  
+*Jan 2021 – Dec 2022* · 2 yrs  
+*Hyderabad, Telangana, India (Hybrid)*  
 
-### 🐾 [Petshop Application CI/CD Pipeline](https://github.com/Cherpalli-Shiva/CI-CD-For-Java-App.git)
-- **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, OWASP 🔒, SonarQube 🛡️  
-- Built a secure CI/CD pipeline for a 3-tier application using DevSecOps practices.
-
-### 🚀 [Amazon Deployment Pipeline](https://github.com/your-repo)
-- **Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
-- Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.
-
-### 🖥️ [3-Tier Application CI/CD Pipeline](https://github.com/Cherpalli-Shiva/3-Tire-Application.git)
-- **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, OWASP 🔒  
-- Built a robust CI/CD pipeline to manage a 3-tier web application securely and efficiently.
-
-### 🛠️ [CI/CD Gradle Pipeline](https://github.com/Cherpalli-Shiva/CI-CD---Gradle-Project---Nexus-Repo.git)
-- **Tech Stack**: Jenkins 🔧, Gradle 📜, Docker 🐳  
-- Automated build and deployment for Java-based applications using Gradle in CI/CD workflows.
+- Leveraged **Git** for managing source code, creating branching strategies, and merging code to streamline workflows.  
+- Proficient in **Terraform**, deploying AWS resources like EKS, Lambda, DynamoDB, API Gateways, SNS, IAM, and EC2.  
+- Automated tasks using **Ansible** Playbooks for provisioning AWS services and configuring infrastructure.  
+- Set up and optimized **Jenkins** for CI/CD pipelines, integrating Terraform modules and source code management.  
+- Deployed **Docker** containers for microservices and orchestrated them using **Kubernetes (EKS)**.  
+- Monitored infrastructure using **Prometheus** and **Grafana**, ensuring system reliability and performance.  
+- Automated deployments using **ArgoCD** and implemented security practices with **OWASP Dependency-Check**.  
 
 ---
 
-## 📫 Let's Connect
+### **Cloud Engineer**  
+**Avineon India** · Full-time  
+*Jul 2020 – Dec 2020* · 6 mos  
+*Hyderabad, Telangana, India (Remote)*  
+
+- Managed and deployed **AWS** cloud resources to enhance application performance and scalability.  
+- Designed and implemented **Infrastructure as Code (IaC)** using Terraform for reusable cloud modules.  
+- Automated deployments of GIS mapping applications using shell scripts and configuration tools like **Ansible**.  
+- **Dockerized** applications to ensure consistency across development, testing, and production environments.  
+- Developed CI/CD pipelines using **Jenkins** to automate application deployments.  
+- Migrated geospatial datasets to **AWS S3**, ensuring secure access and efficient storage.  
+
+---
+
+## 📫 Let's Connect  
 
 - **LinkedIn**: [Shiva Kumar Cherpalli](https://www.linkedin.com/in/cherpalli-shiva/) 🌐  
 - **Docker Hub**: [cherpalli](https://hub.docker.com/u/cherpalli) 🐳  
 - **GitHub**: [Cherpalli-Shiva](https://github.com/Cherpalli-Shiva) 🛠️  
-
----
-
-## 📊 GitHub Stats
-
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherpalli-Shiva&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherpalli-Shiva&layout=compact)](https://github.com/Cherpalli-Shiva)
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on DevOps projects. 🚀
